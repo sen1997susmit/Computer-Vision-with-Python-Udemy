@@ -105,15 +105,24 @@ This course is tailor made for an individual who wishes to transition quickly fr
 **Jose Portilla**
 > Head of Data Science, Pierian Data Inc.
 
-## Certificate
+## Reference Links
+1. **Course Reference Thumbnail**
 
-![Certificate]( https://github.com/sen1997susmit/python-data-science-and-machine-learning-bootcamp-jose-portilla/blob/main/python%20for%20DS%20nad%20ML%20boot.jpg)
+![Course Description](https://github.com/Ashleshk/Computer-Vision-with-Python-Udemy/blob/master/resource/Description.PNG)
 
- > [Verified Certificate]( https://github.com/sen1997susmit/python-data-science-and-machine-learning-bootcamp-jose-portilla/blob/main/python%20for%20DS%20nad%20ML%20boot.pdf)
+ > [Udemy](https://www.udemy.com/course/python-for-computer-vision-with-opencv-and-deep-learning/)
 
+2. **Certificate**
+
+![Certificate](https://github.com/Ashleshk/Computer-Vision-with-Python-Udemy/blob/master/resource/Certiifcate.PNG)
  
-## I am Extremely ThankFull For
+ 3. **I am Extremely ThankFull For**
 
  ![Udemy](https://github.com/Ashleshk/Computer-Vision-with-Python-Udemy/blob/master/resource/Udemy.PNG)
 
-
+ 5. **Similar Courses**
+ > 1. Power BI A-Z_Hands-On Power BI Training For Data Science -> [Course link](https://www.udemy.com/share/101WGaBUEecFdWRnQ=/) - [Github Link](https://github.com/Ashleshk/Power-BI-A-Z-Hands-On-Power-BI-Training-For-Data-Science-Udemy)
+ > 2. TensorFlow 2.0 Complete Reference Course -> [Course Link](https://www.udemy.com/share/101qEyBUEecFdWRnQ=/) - [Github Link](https://github.com/Ashleshk/TensorFlow-2.0-Complete-Reference-Course)
+ > 3. Machine-Learning-A-Z-hands-on-Python-And-R-in-data-Science -> [Course Link](https://www.udemy.com/course/machinelearning/) - [Github Link](https://github.com/Ashleshk/Machine-Learning-A-Z-hands-on-Python-And-R-in-data-Science)
+ > 4. Modern-Natural-Language-Processing-in-Python -> [Course Link](https://www.udemy.com/course/modern-nlp/learn/) - [Github Link](https://github.com/Ashleshk/Modern-Natural-Language-Processing-in-Python-Udemy)
+ > 5. Machine-Learning-Data-Science-Deep-Learning -> [Course Link](https://www.udemy.com/course/data-science-and-machine-learning-with-python-hands-on/learn/) - [Github Link](https://github.com/Ashleshk/Machine-Learning-Data-Science-Deep-Learning)
